@@ -5,8 +5,6 @@ import Functional from './Functional';
 import App from './App';
 import Navbar from './Navbar';
 
-import 'bootstrap/dist/css/bootstrap.min.css'
-
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
